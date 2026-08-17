@@ -1,0 +1,33 @@
+{
+  "name": "terradeed-web-data-extraction",
+  "version": "1.0.0",
+  "description": "Extract structured data from any URL using TerraDeed's x402-powered API. Clean markdown, structured JSON, and UK property intelligence.",
+  "author": "TerraDeed Labs <contact@terradeed.co.uk>",
+  "license": "MIT",
+  "keywords": [
+    "web-scraping",
+    "data-extraction",
+    "x402",
+    "structured-data",
+    "property-data",
+    "company-intelligence",
+    "markdown",
+    "mcp"
+  ],
+  "homepage": "https://terradeed.co.uk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terradeed/hermes-skills"
+  },
+  "bugs": {
+    "url": "https://github.com/terradeed/hermes-skills/issues"
+  },
+  "mcpServer": {
+    "package": "terradeed-mcp-server",
+    "version": "0.2.1",
+    "endpoint": "https://terradeed.0mcp.dev/mcp"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
