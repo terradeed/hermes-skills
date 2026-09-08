@@ -1,7 +1,7 @@
 {
   "name": "terradeed-web-data-extraction",
   "version": "1.0.0",
-  "description": "Extract structured data from any URL using TerraDeed's x402-powered API. Clean markdown, structured JSON, and UK property intelligence.",
+  "description": "Pay-per-call web scraping and structured data extraction for AI agents. No API key needed.",
   "author": "TerraDeed Labs <contact@terradeed.co.uk>",
   "license": "MIT",
   "keywords": [
@@ -12,7 +12,13 @@
     "property-data",
     "company-intelligence",
     "markdown",
-    "mcp"
+    "mcp",
+    "agent-tools",
+    "api",
+    "json",
+    "llm",
+    "hermes-agent",
+    "agentskills"
   ],
   "homepage": "https://terradeed.co.uk",
   "repository": {

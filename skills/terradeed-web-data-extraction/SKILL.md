@@ -1,6 +1,6 @@
 ---
 name: terradeed-web-data-extraction
-description: "Extract structured data from any URL using TerraDeed's x402-powered API. Clean markdown, structured JSON, and UK property intelligence with no API key required."
+description: "Pay-per-call web data extraction for AI agents. No API key needed."
 version: 1.0.0
 author: TerraDeed Labs
 license: MIT
