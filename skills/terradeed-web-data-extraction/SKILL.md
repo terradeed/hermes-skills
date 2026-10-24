@@ -2,7 +2,7 @@
 name: terradeed-web-data-extraction
 description: "Pay-per-call web data extraction for AI agents. No API key needed."
 version: 1.0.0
-author: TerraDeed Labs
+author: Terradeed Labs
 license: MIT
 platforms: [linux, macos, windows]
 dependencies: []
@@ -13,9 +13,9 @@ metadata:
     related_skills: []
 ---
 
-# TerraDeed Web Data Extraction
+# Terradeed Web Data Extraction
 
-Extract structured data from any public URL using TerraDeed's x402-powered endpoints. No API key required — pay per call with USDC on Base mainnet.
+Extract structured data from any public URL using Terradeed's x402-powered endpoints. No API key required — pay per call with USDC on Base mainnet.
 
 ## MCP Server (Recommended)
 
@@ -175,13 +175,13 @@ curl -X POST https://api.terradeed.co.uk/extract/property \
 
 ## Payment
 
-TerraDeed uses x402 — an open payment standard on HTTP 402. No API key needed.
+Terradeed uses x402 — an open payment standard on HTTP 402. No API key needed.
 
 1. First request returns 402 with payment requirements
 2. Sign an EIP-3009 TransferWithAuthorization
 3. Retry with payment signature
 
-**Simpler option:** Use the MCP server or contact TerraDeed for API key access.
+**Simpler option:** Use the MCP server or contact Terradeed for API key access.
 
 **Wallet needed:** USDC on Base mainnet. Even $1.00 covers 100+ scrapes.
 
