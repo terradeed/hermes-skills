@@ -2,7 +2,7 @@
   "name": "terradeed-web-data-extraction",
   "version": "1.0.0",
   "description": "Pay-per-call web scraping and structured data extraction for AI agents. No API key needed.",
-  "author": "TerraDeed Labs <contact@terradeed.co.uk>",
+  "author": "Terradeed Labs <contact@terradeed.co.uk>",
   "license": "MIT",
   "keywords": [
     "web-scraping",

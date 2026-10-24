@@ -1,6 +1,6 @@
-# TerraDeed Skills for Hermes Agent
+# Terradeed Skills for Hermes Agent
 
-Web data extraction skills for [Hermes Agent](https://hermes-agent.nousresearch.com/) by [TerraDeed Labs](https://terradeed.co.uk).
+Web data extraction skills for [Hermes Agent](https://hermes-agent.nousresearch.com/) by [Terradeed Labs](https://terradeed.co.uk).
 
 ## Install
 
@@ -25,7 +25,7 @@ No API key required. Uses [x402](https://x402.org/) micropayments on Base mainne
 
 - Hermes Agent (or any agentskills.io-compatible agent)
 - USDC on Base mainnet for x402 payments
-- Or contact TerraDeed for API key access
+- Or contact Terradeed for API key access
 
 ## Links
 
